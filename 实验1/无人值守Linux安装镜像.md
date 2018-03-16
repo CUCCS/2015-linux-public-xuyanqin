@@ -88,7 +88,7 @@ mkisofs -r -V "Custom Ubuntu Install CD" \
             -c isolinux/boot.cat -no-emul-boot \
             -boot-load-size 4 -boot-info-table \
             -o $IMAGE $BUILD  
-            ```  
+  ```  
   ![](pic/mk1.png)
 
 - 最后通过get取出镜像
