@@ -49,7 +49,8 @@
 
 - 如何通过systemd设置实现在网络连通时运行一个指定脚本，在网络断开时运行另一个脚本？
   - 修改networking.service文件，添加两行:
-  ![](pic/8.png)
+  ![](pic/8.png)  
+  
   其中，1.sh,2.sh分别为输出一句相应提示信息到test.txt文件
   ![](pic/9.png)
 
