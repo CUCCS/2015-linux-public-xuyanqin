@@ -1,0 +1,10 @@
+869 edams.ksc.nasa.gov
+568 163.206.89.4
+564 beta.xerox.com
+403 goose.sms.fi
+260 piweba4y.prodigy.com
+244 euas65.eua.ericsson.se
+241 piweba3y.prodigy.com
+230 piweba5y.prodigy.com
+228 mac998.kip.apple.com
+216 gatekeeper.us.oracle.com
