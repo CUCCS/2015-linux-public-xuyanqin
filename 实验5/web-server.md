@@ -42,7 +42,7 @@ sudo /opt/verynginx/openresty/nginx/sbin/nginx
   ![](pic/word.png)
 
   - 使用Wordpress搭建的站点对外提供访问的地址为： https://wp.sec.cuc.edu.cn 和 http://wp.sec.cuc.edu.cn
-    - client 修改hosts文件
+    - client 修改hosts文件   
     ![](pic/hosts.png)
     - http
     ![](pic/word2.png)
